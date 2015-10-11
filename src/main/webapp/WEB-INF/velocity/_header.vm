@@ -1,0 +1,23 @@
+<html>
+<head >
+	<meta charset="utf-8">
+	<link  href="$!{url_path}/css/bootstrap-cerulean.css" rel="stylesheet">
+	<link href="$!{url_path}/css/bootstrap-responsive.css" rel="stylesheet"/>
+	<link href="$!{url_path}/css/charisma-app.css" rel="stylesheet"/>
+	<link href="$!{url_path}/css/jquery-ui-1.8.21.custom.css" rel="stylesheet"/>
+	<link href='$!{url_path}/css/fullcalendar.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/fullcalendar.print.css' rel='stylesheet'  media='print'/>
+	<link href='$!{url_path}/css/chosen.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/uniform.default.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/colorbox.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/jquery.cleditor.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/jquery.noty.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/noty_theme_default.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/elfinder.min.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/elfinder.theme.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/jquery.iphone.toggle.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/opa-icons.css' rel='stylesheet'/>
+	<link href='$!{url_path}/css/uploadify.css' rel='stylesheet'/>
+	<link rel="shortcut icon" href="$!{url_path}/img/favicon.ico">
+</head>
+	<body>

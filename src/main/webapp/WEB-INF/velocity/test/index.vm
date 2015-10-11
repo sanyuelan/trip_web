@@ -1,0 +1,8 @@
+<html>
+<body>
+	
+	#foreach($item in $list)
+		${item},
+	#end
+</body>
+</html>
