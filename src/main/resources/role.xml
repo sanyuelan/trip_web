@@ -1,104 +1,104 @@
-<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="utf-8"?>
 <OA>
 	<function>
 		<functionCode>a</functionCode>
 		<functionName>ajax</functionName>
 		<parentCode>personal_things</parentCode>
-		<parentName>个人事务</parentName>
+		<parentName>涓汉浜嬪姟</parentName>
 		<url>/systemManager/ajax/show</url>
 	</function>
 	<function>
 		<functionCode>b</functionCode>
-		<functionName>待办事宜</functionName>
+		<functionName>寰呭姙浜嬪疁</functionName>
 		<parentCode>personal_things</parentCode>
-		<parentName>个人事务</parentName>
+		<parentName>涓汉浜嬪姟</parentName>
 		<url>javascript:</url>
 	</function>
 	<function>
 		<functionCode>c</functionCode>
-		<functionName>日程安排</functionName>
+		<functionName>鏃ョ▼瀹夋帓</functionName>
 		<parentCode>personal_things</parentCode>
-		<parentName>个人事务</parentName>
+		<parentName>涓汉浜嬪姟</parentName>
 		<url>javascript:</url>
 	</function>
 	<function>
 		<functionCode>d</functionCode>
-		<functionName>个人选项</functionName>
+		<functionName>涓汉閫夐」</functionName>
 		<parentCode>personal_things</parentCode>
-		<parentName>个人事务</parentName>
+		<parentName>涓汉浜嬪姟</parentName>
 		<url>javascript:</url>
 	</function>
 
 	<function>
 		<functionCode>e</functionCode>
-		<functionName>考勤管理</functionName>
+		<functionName>鑰冨嫟绠＄悊</functionName>
 		<parentCode>check_work</parentCode>
-		<parentName>办公管理</parentName>
+		<parentName>鍔炲叕绠＄悊</parentName>
 		<url>/systemManager/check/show</url>
 	</function>
 
 	<function>
 		<functionCode>f</functionCode>
-		<functionName>电子公告</functionName>
+		<functionName>鐢靛瓙鍏憡</functionName>
 		<parentCode>public_information</parentCode>
-		<parentName>公用信息</parentName>
+		<parentName>鍏敤淇℃伅</parentName>
 		<url>javascript:</url>
 	</function>
 	<function>
 		<functionCode>g</functionCode>
-		<functionName>热点论坛</functionName>
+		<functionName>鐑偣璁哄潧</functionName>
 		<parentCode>public_information</parentCode>
-		<parentName>公用信息</parentName>
+		<parentName>鍏敤淇℃伅</parentName>
 		<url>javascript:</url>
 	</function>
 	
 	<function>
 		<functionCode>h</functionCode>
-		<functionName>部门管理</functionName>
+		<functionName>閮ㄩ棬绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>/systemManager/department/departmentManager</url>
 	</function>
 	<function>
 		<functionCode>i</functionCode>
-		<functionName>职务管理</functionName>
+		<functionName>鑱屽姟绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>javascript:</url>
 	</function>
 	<function>
 		<functionCode>j</functionCode>
-		<functionName>用户管理</functionName>
+		<functionName>鐢ㄦ埛绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>/systemManager/user/showUser</url>
 	</function>
 	<function>
 		<functionCode>k</functionCode>
-		<functionName>角色管理</functionName>
+		<functionName>瑙掕壊绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>/systemManager/role/showRole</url>
 	</function>
 	<function>
 		<functionCode>l</functionCode>
-		<functionName>权限管理</functionName>
+		<functionName>鏉冮檺绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>/systemManager/rolepower/rolepowershow</url>
 	</function>
 	<function>
 		<functionCode>m</functionCode>
-		<functionName>参数设置</functionName>
+		<functionName>鍙傛暟璁剧疆</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>/systemManager/dictionary/show</url>
 	</function>
 	<function>
 		<functionCode>n</functionCode>
-		<functionName>日志管理</functionName>
+		<functionName>鏃ュ織绠＄悊</functionName>
 		<parentCode>OA_Manager</parentCode>
-		<parentName>系统管理</parentName>
+		<parentName>绯荤粺绠＄悊</parentName>
 		<url>javascript:</url>
 	</function>
 

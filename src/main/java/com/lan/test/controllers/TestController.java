@@ -27,6 +27,10 @@ public class TestController {
 	@Value("${jdbc.url}")
 	private String url;
 	
+	
+	@Value("#{systemProperties}")
+	private Object env;
+	
 	@RequestMapping("list")
 	public String list(Model model){
 		
