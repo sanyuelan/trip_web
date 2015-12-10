@@ -1,0 +1,8 @@
+1、@Value获取不到值，需要在applicationContext.xml
+在重新引入配置文件	<context:property-placeholder location="classpath:configuration.properties"/> 
+
+2、@Value的语法格式为两种 a：@Value("${jdbc.url}") 获取配置文件的值  b：@Value("#{systemProperties}")获取系统信息
+
+3、在本地新建一个分支dev:
+如果需要把本地分支推送到远程上：git push origin 本地分支名称:远程分支名称
+
