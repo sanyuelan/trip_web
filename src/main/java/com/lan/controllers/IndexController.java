@@ -15,8 +15,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/")
 public class IndexController {
 
-	public String aa = "111";
-	
 	@RequestMapping("")
 	public String index(Model model,HttpServletRequest request){
 		
